@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tammy Smart – Travel Consultant</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Tammy Smart Travel</div>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#services">Services</a></li>
+                <li><a href="#testimonials">Testimonials</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Explore the World with Tammy Smart</h1>
+        <p>Your personal travel consultant – making dreams come true.</p>
+        <a href="#contact" class="btn">Start Your Journey</a>
+    </section>
+
+    <section id="about" class="section">
+        <h2>About Tammy</h2>
+        <p>Tammy Smart is a certified travel consultant with over 10 years of experience helping clients plan unforgettable trips around the world. Whether it's luxury getaways, budget travels, or adventure tours – Tammy has you covered.</p>
+    </section>
+
+    <section id="services" class="section">
+        <h2>Our Services</h2>
+        <ul class="services-list">
+            <li>✈️ Flight & Hotel Bookings</li>
+            <li>🛳️ Cruise Packages</li>
+            <li>🏖️ Custom Travel Itineraries</li>
+            <li>🌍 Travel Insurance</li>
+            <li>📸 Destination Planning & Tips</li>
+        </ul>
+    </section>
+
+    <section id="testimonials" class="section testimonials">
+        <h2>What Clients Say</h2>
+        <div class="testimonial">
+            <p>"Tammy planned our honeymoon to Bali – it was magical! Every detail was perfect!"</p>
+            <span>– Lisa & Mark</span>
+        </div>
+        <div class="testimonial">
+            <p>"I needed a last-minute business trip booked and Tammy handled everything within hours!"</p>
+            <span>– James K.</span>
+        </div>
+    </section>
+
+    <section id="contact" class="section contact">
+        <h2>Contact Tammy</h2>
+        <p>Ready to book your next adventure? Reach out now:</p>
+        <ul>
+            <li>Email: <a href="mailto:tammy@smarttravel.com">tammy@smarttravel.com</a></li>
+            <li>Phone: +1 (555) 123-4567</li>
+            <li>Instagram: <a href="https://instagram.com/tammysmarttravel" target="_blank">@tammysmarttravel</a></li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Tammy Smart Travel Consultant. All rights reserved.</p>
+    </footer>
+</body>
+</html>
